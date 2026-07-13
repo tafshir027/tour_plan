@@ -7,7 +7,7 @@
       "startDate": "",
       "endDate": "",
       "currency": "USD",
-      "budgetLimit": "",
+      "budgetLimit": 40000,
       "routes": [],
       "packing": [],
       "itinerary": [],
