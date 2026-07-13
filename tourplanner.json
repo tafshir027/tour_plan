@@ -1,4 +1,20 @@
 {
-  "currentTripId": null,
-  "trips": {}
+  "currentTripId": "76f3120b-b434-4b31-9910-772c8e9376dc",
+  "trips": {
+    "76f3120b-b434-4b31-9910-772c8e9376dc": {
+      "id": "76f3120b-b434-4b31-9910-772c8e9376dc",
+      "name": "india",
+      "startDate": "",
+      "endDate": "",
+      "currency": "USD",
+      "budgetLimit": "",
+      "routes": [],
+      "packing": [],
+      "itinerary": [],
+      "budget": [],
+      "documents": [],
+      "notes": [],
+      "destinations": []
+    }
+  }
 }
