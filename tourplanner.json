@@ -25,7 +25,7 @@
           "to": "দিল্লি",
           "transport": "Train",
           "duration": "4",
-          "cost": 0,
+          "cost": 2000,
           "order": 3,
           "date": "2026-07-14T06:03:33.745Z"
         },
@@ -150,6 +150,14 @@
           "amount": 6000,
           "linkedRouteId": "e45773c3-33fb-4d77-8d03-53517700c454",
           "date": "2026-07-14T07:11:04.082Z"
+        },
+        {
+          "id": "d9ce726a-e072-4c23-8fd1-3692a1f494e3",
+          "item": "Transport: আগ্রা → দিল্লি",
+          "category": "Transport",
+          "amount": 2000,
+          "linkedRouteId": "3f7c6643-041b-4440-82e0-94fd42671e3d",
+          "date": "2026-07-14T07:13:05.904Z"
         }
       ],
       "documents": [],
