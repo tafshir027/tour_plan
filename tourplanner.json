@@ -10,16 +10,6 @@
       "budgetLimit": 40000,
       "routes": [
         {
-          "id": "58dbce67-92d1-4a93-8f2c-7f593705fcc8",
-          "from": "কলকাতা",
-          "to": "রাঁচি (ঝালখন্ড)",
-          "transport": "Train",
-          "duration": "8",
-          "cost": 0,
-          "order": 0,
-          "date": "2026-07-14T06:01:25.576Z"
-        },
-        {
           "id": "79977a13-feec-4c76-b764-b359a440f96e",
           "from": "রাঁচি",
           "to": "গয়া (বিহার)",
