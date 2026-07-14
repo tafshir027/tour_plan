@@ -48,6 +48,16 @@
           "cost": 0,
           "order": 3,
           "date": "2026-07-14T06:03:33.745Z"
+        },
+        {
+          "id": "6c48d7b1-b503-471d-b93b-ea852bda378d",
+          "from": "দিল্লি",
+          "to": "চন্ডীগড়",
+          "transport": "Train",
+          "duration": "5",
+          "cost": 0,
+          "order": 4,
+          "date": "2026-07-14T06:04:19.864Z"
         }
       ],
       "packing": [],
