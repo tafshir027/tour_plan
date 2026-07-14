@@ -145,8 +145,8 @@
           "id": "d9ce726a-e072-4c23-8fd1-3692a1f494e3",
           "item": "Transport: আগ্রা → দিল্লি",
           "category": "Transport",
-          "amount": 2000,
-          "linkedRouteId": "3f7c6643-041b-4440-82e0-94fd42671e3d",
+          "amount": 0,
+          "linkedRouteId": null,
           "date": "2026-07-14T07:13:05.904Z"
         },
         {
