@@ -153,8 +153,8 @@
           "id": "71b4f0dd-1e11-4782-bfb5-ac2bd3a36284",
           "item": "Transport: দিল্লি → চন্ডীগড়",
           "category": "Transport",
-          "amount": 2000,
-          "linkedRouteId": "6c48d7b1-b503-471d-b93b-ea852bda378d",
+          "amount": 0,
+          "linkedRouteId": null,
           "date": "2026-07-14T07:15:01.668Z"
         }
       ],
