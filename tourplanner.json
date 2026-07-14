@@ -131,7 +131,16 @@
         }
       ],
       "packing": [],
-      "itinerary": [],
+      "itinerary": [
+        {
+          "id": "bda2cde0-ae1c-46c5-9c95-242ee7847548",
+          "day": 1,
+          "time": "13:30",
+          "activity": "Hotel",
+          "place": "",
+          "date": "2026-07-14T07:39:29.394Z"
+        }
+      ],
       "budget": [
         {
           "id": "f9d22fdc-93cf-4101-a554-cf99354a67bf",
