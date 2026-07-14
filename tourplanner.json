@@ -165,6 +165,14 @@
           "amount": 0,
           "linkedRouteId": null,
           "date": "2026-07-14T07:15:01.668Z"
+        },
+        {
+          "id": "5ffae743-0956-48c5-ad98-2e0fb28a8cd6",
+          "item": "Day 1: Hotel Kalkata",
+          "category": "Accommodation",
+          "amount": 7,
+          "linkedRouteId": null,
+          "date": "2026-07-14T07:41:18.344Z"
         }
       ],
       "documents": [],
