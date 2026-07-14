@@ -137,8 +137,8 @@
           "id": "f9d22fdc-93cf-4101-a554-cf99354a67bf",
           "item": "Transport: শিয়ালদহ → আগ্রা (উত্তর প্রদেশ)",
           "category": "Transport",
-          "amount": 6000,
-          "linkedRouteId": "e45773c3-33fb-4d77-8d03-53517700c454",
+          "amount": 0,
+          "linkedRouteId": null,
           "date": "2026-07-14T07:11:04.082Z"
         },
         {
