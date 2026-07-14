@@ -8,7 +8,18 @@
       "endDate": "",
       "currency": "BDT",
       "budgetLimit": 40000,
-      "routes": [],
+      "routes": [
+        {
+          "id": "58dbce67-92d1-4a93-8f2c-7f593705fcc8",
+          "from": "কলকাতা",
+          "to": "রাঁচি (ঝালখন্ড)",
+          "transport": "Train",
+          "duration": "8",
+          "cost": 0,
+          "order": 0,
+          "date": "2026-07-14T06:01:25.576Z"
+        }
+      ],
       "packing": [],
       "itinerary": [],
       "budget": [],
