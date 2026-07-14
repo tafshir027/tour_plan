@@ -58,6 +58,16 @@
           "cost": 0,
           "order": 4,
           "date": "2026-07-14T06:04:19.864Z"
+        },
+        {
+          "id": "60494b1b-48f7-41df-b15c-207fef1555fb",
+          "from": "চন্ডীগড়",
+          "to": "শিমলা",
+          "transport": "Train",
+          "duration": "6",
+          "cost": 0,
+          "order": 5,
+          "date": "2026-07-14T06:05:02.742Z"
         }
       ],
       "packing": [],
