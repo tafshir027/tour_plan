@@ -7,7 +7,7 @@
       "startDate": "",
       "endDate": "",
       "currency": "USD",
-      "budgetLimit": 40000,
+      "budgetLimit": 50,
       "routes": [
         {
           "id": "e45773c3-33fb-4d77-8d03-53517700c454",
