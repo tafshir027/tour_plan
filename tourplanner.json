@@ -35,7 +35,7 @@
           "to": "চন্ডীগড়",
           "transport": "Train",
           "duration": "5",
-          "cost": 0,
+          "cost": 2000,
           "order": 4,
           "date": "2026-07-14T06:04:19.864Z"
         },
@@ -158,6 +158,14 @@
           "amount": 2000,
           "linkedRouteId": "3f7c6643-041b-4440-82e0-94fd42671e3d",
           "date": "2026-07-14T07:13:05.904Z"
+        },
+        {
+          "id": "71b4f0dd-1e11-4782-bfb5-ac2bd3a36284",
+          "item": "Transport: দিল্লি → চন্ডীগড়",
+          "category": "Transport",
+          "amount": 2000,
+          "linkedRouteId": "6c48d7b1-b503-471d-b93b-ea852bda378d",
+          "date": "2026-07-14T07:15:01.668Z"
         }
       ],
       "documents": [],
