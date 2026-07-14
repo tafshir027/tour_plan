@@ -88,6 +88,16 @@
           "cost": 0,
           "order": 7,
           "date": "2026-07-14T06:06:58.662Z"
+        },
+        {
+          "id": "c3d6188a-e86d-4ee6-827d-79e3fb638e0b",
+          "from": "দিল্লি",
+          "to": "আহমেদাবাদ",
+          "transport": "Train",
+          "duration": "6",
+          "cost": 0,
+          "order": 8,
+          "date": "2026-07-14T06:07:34.843Z"
         }
       ],
       "packing": [],
